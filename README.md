@@ -1,5 +1,5 @@
 
-# Caesar cipher - Assignment
+# Caesar cipher
 
 In cryptography, a Caesar cipher, also known as Caesar’s cipher,
 the shift cipher, Caesar’s code or Caesar shift,
@@ -33,4 +33,4 @@ Implement a caesar cipher that takes in a string and the shift factor and then o
   cd ceasar-cipher
   ruby main.rb
 ```
-    
+
